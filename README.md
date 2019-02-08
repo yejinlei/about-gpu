@@ -1,2 +1,5 @@
 # about-gpu
-GPU编程
+
+## GPU显卡参数
+![](data\deviceQueryDrv.PNG)
+![](data\bandwidthTest.PNG)
