@@ -6,8 +6,10 @@
 * CUDA Capability Major/Minor version number(计算能力)：2.1
   * GPU计算能力不仅仅代表计算的能力，同时它也代表硬件架构上的细微差异，本显卡属于Fermi架构SM2.1
   * Fermi架构介绍
+
+	![](data/Fermi.PNG)
     * SM2.1内部结构，如图：
-  
+
     ![](data/Fermi_SM21.PNG)
     ![](data/bandwidthTest.PNG)
 
